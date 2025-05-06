@@ -1,1 +1,1 @@
-Go Gator CLI project
+Go gator CLI project
